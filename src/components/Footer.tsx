@@ -11,7 +11,7 @@ const Footer = () => {
               <span className="text-2xl font-bold text-azure-blue">Datavolx</span>
             </Link>
             <p className="text-gray-300 mb-4 max-w-md">
-              Empowering businesses with end-to-end Azure data engineering solutions. 
+              Empowering businesses with end-to-end Azure data engineering solutions erfef. 
               Cloud migration, data pipelines, and business intelligence for all sizes.
             </p>
             <p className="text-gray-400">
